@@ -1,0 +1,28 @@
+{
+  "name": "cmpe195f-car_rental",
+  "version": "1.0.0",
+  "description": "car rental react project",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9",
+    "mongoose-dateonly": "^1.0.6",
+    "nodemon": "^2.0.15",
+    "stripe": "^8.219.0",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HONGKAI123/CMPE195F-CAR_RENTAL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HONGKAI123/CMPE195F-CAR_RENTAL/issues"
+  },
+  "homepage": "https://github.com/HONGKAI123/CMPE195F-CAR_RENTAL#readme"
+}

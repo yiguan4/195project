@@ -1,0 +1,28 @@
+
+.contain{
+  min-height: 60vh;
+  padding:24px 40px 20px;
+}
+.info-wrap{
+  margin-bottom: 45px;
+  line-height: 40px;
+}
+.add-btn{
+  margin-left: 100px;
+}
+.account{
+  text-transform: uppercase;
+  padding-bottom: 5px;
+  position: relative;
+padding: 0;
+margin: 0;
+font-family: "Raleway", sans-serif;
+
+font-weight: 300;
+font-size: 30px;
+color: #080808;
+}
+
+.info-wrap{
+  font-size: large;
+}

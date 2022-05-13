@@ -1,0 +1,58 @@
+.login{
+    background-color: black;
+    padding-top: 100px;
+    min-height: 50vh;
+}
+.login label, .login h1{
+    color: white !important;
+    opacity: 0.8;
+    font-size: 40px;
+    padding: 20px;
+    
+}
+
+.login-box{
+    background-color: #1F1F1F ;
+    
+  font-size: 20px;
+  border-radius: 100px;
+  margin-right: 100px;
+
+    
+
+}
+
+.text-box{
+    padding: 10px;
+    text-align: center;
+
+}
+
+.text-box Input{
+    background-color:darkgrey !important;
+    border-radius: 9px;
+    color: black;
+
+}
+.btn1{
+   background-color:aqua ;
+   padding: 15px 25px;
+   border: none ;
+   border-radius: 25px;
+
+}
+
+.btn1 h2{
+    font-size: 10px;
+    
+    position: relative;
+    font-weight: 700;
+    
+
+}
+
+.kennth{
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+

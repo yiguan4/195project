@@ -1,0 +1,22 @@
+.booking-wrap{
+  padding: 30px 40px;
+  font-size: 18px;
+}
+.car-img{
+  height: 400px;
+}
+.order-info{
+  display: flex;
+}
+.order-ctn{
+  flex:1;
+  margin-left: 20px;
+}
+.mt40{
+  margin-top: 40px;
+}
+.tips{
+  line-height: 40px;
+  color:red;
+  font-size: 20px;
+}
